@@ -60,7 +60,7 @@
             }
 
             .m-b-md {
-                margin-bottom: 300px;
+                margin-bottom: 30px;
             }
         </style>
     </head>
